@@ -1,0 +1,25 @@
+.login-btn-wrapper{
+    width: 12.652rem;
+    height: 4.64656rem;
+    flex-shrink: 0;
+    border-radius: 0.5rem;
+    border: 0.5px solid #61B0DC;
+    opacity: 0.800000011920929;
+    background: #7FB4D3;
+    /* filter: blur(2px); */
+    justify-self: flex-end;
+    /* align-self: flex-end; */
+}
+
+.login-text{
+    width: 5.78181rem;
+    height: 3.014rem;
+    flex-shrink: 0;
+    color: #000;
+    font-family: Poppins;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    justify-self: flex-end;
+}

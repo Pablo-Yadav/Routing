@@ -1,0 +1,101 @@
+body{
+  width: 1600px;
+height: 960px;
+top: 94px;
+left: -187px;
+padding: 208px 357px 233px 356px;
+background: linear-gradient(233.67deg, rgba(97, 176, 220, 0.13) 14.75%, rgba(87, 160, 201, 0.84) 87.2%);
+
+}
+
+.layoutBox{
+  width: 887px;
+height: 519px;
+top: 208px;
+left: 356px;
+border-radius: 8px;
+border: 2px solid rgb(0, 136, 255);
+display:flex;
+flex-direction: column;
+align-items: center;
+gap:2em;
+
+}
+
+.Head{
+  width: 207.87359619140625px;
+height: 45.21001052856445px;
+top: 243.29962158203125px;
+left: 701.0052490234375px;
+font-family: "Poppins";
+font-size: 36px;
+font-weight: 400;
+line-height: 54px;
+letter-spacing: 0em;
+text-align: left;
+color:#000000C4;
+
+}
+
+.rectangle1{
+  width: 732.4553833007812px;
+height: 57.266014099121094px;
+top: 334.8917541503906px;
+left: 433.2723083496094px;
+border-radius: 8px;
+
+border: 1px solid #000000E8;
+text-align:center;
+font-family: "Poppins";
+font-size: 30px;
+font-weight: 400;
+line-height: 45px;
+letter-spacing: 0em;
+text-align: center;
+
+
+}
+
+.login-button{
+  
+    width: 202.43185424804688px;
+    height: 74.34534454345703px;
+    top: 554.3180541992188px;
+    left: 704.2698974609375px;
+    border-radius:8px;
+    background-color:rgb(0, 157, 255) ;
+    border: 0.5px solid rgb(0, 157, 255);
+    font-family: "poppins";
+      font-size: 32px;
+      font-weight: 100;
+      line-height: 24px;
+      letter-spacing: 0em;
+
+
+
+}
+
+.login-btn-wrapper{
+
+  width: 12.652rem;
+
+  height: 4.64656rem;
+
+  flex-shrink: 0;
+
+  border-radius: 0.5rem;
+
+  border: 0.5px solid #61B0DC;
+
+  opacity: 0.800000011920929;
+
+  background: #7FB4D3;
+
+  /* filter: blur(2px); */
+
+  justify-self: flex-end;
+
+  /* align-self: flex-end; */
+
+}
+
